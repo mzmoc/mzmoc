@@ -19,7 +19,7 @@ code：
 do
 msgbox"mzmoc: hey you!goodmorning my neighbour！！"
 loop
-tilte "!$#^TFYYV^^%%$*)(&jkndjfbdsf"
+tilte "wuhu"
 
 
 Maybe it won't work, sorry！！
